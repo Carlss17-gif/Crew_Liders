@@ -141,8 +141,10 @@ function crearSeccionExamenes() {
   return frag;
 }
 
-function irExamen(id){
-  window.location.href = `examen.html?id=${id}&nom=${empleado.nombre}`;
+function irExamen(id) {
+  const empleado = JSON.parse(localStorage.getItem('empleado') || '{}');
+  const nombre = empleado.nombre || 'empleado';
+  window.location.href = `examen.html?id=${encodeURIComponent(id)}&nom=${encodeURIComponent(nombre)}`;
 }
 
 function abrirModulo(id) {
