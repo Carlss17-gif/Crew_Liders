@@ -1,0 +1,48 @@
+{
+  "id": "enfermedades",
+  "titulo": "Enfermedades por Alimentos",
+  "icono": "🏥",
+  "categoria": "seguridad",
+  "acento": "amber",
+  "subtitulo": "CHATTO y RAPA",
+  "secciones": [
+    {
+      "tipo": "lista",
+      "titulo": "Enfermedades con diagnóstico médico obligatorio",
+      "items": [
+        "Norovirus — Gripe estomacal",
+        "Hepatitis A",
+        "Salmonella — Fiebre Tifoidea",
+        "Salmonellosis",
+        "E. Coli",
+        "Shigelosis",
+        "Cualquier otra que se transmita por alimentos (ej. Tuberculosis)"
+      ]
+    },
+    {
+      "tipo": "lista",
+      "titulo": "Síntomas de infección causada por alimentos",
+      "items": [
+        "Dolor abdominal",
+        "Ictericia",
+        "Pérdida de apetito",
+        "Dolor de garganta",
+        "Diarrea",
+        "Llagas en la piel",
+        "Fiebre",
+        "Infección respiratoria aguda",
+        "Vómito"
+      ]
+    },
+    {
+      "tipo": "tabla",
+      "titulo": "Tipos de contaminación de alimentos",
+      "columnas": ["Tipo", "Causa", "Ejemplo"],
+      "filas": [
+        ["Bacterial", "Gérmenes que se crean en la comida", "Bacteria, Virus, Moho"],
+        ["Física",    "Partícula sólida ajena al alimento", "Un alambre en la comida"],
+        ["Química",   "Substancias en contacto con los alimentos", "Químicos de limpieza"]
+      ]
+    }
+  ]
+}

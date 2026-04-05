@@ -1,0 +1,57 @@
+{
+  "id": "delivery",
+  "titulo": "Delivery / Uber Eats",
+  "icono": "🛵",
+  "categoria": "servicio",
+  "acento": "amber",
+  "subtitulo": "Proceso de entrega",
+  "secciones": [
+    {
+      "tipo": "pasos",
+      "titulo": "Rol del Líder de Delivery",
+      "pasos": [
+        "Escuchar tono de notificación del pedido",
+        "Revisar pedido y confirmar que todos los productos están disponibles. Ajustar si es necesario",
+        "Confirmar la hora deseada del pedido por el invitado",
+        "Ingresar pedido en POS y comunicar a cocina cuándo preparar",
+        "Reunir condimentos y bebidas solicitadas",
+        "Notificar al cocinero. Empacar y sellar antes de que llegue el repartidor",
+        "Al llegar el repartidor, dirigirlo al área de DELIVERY y confirmar código de pedido con la aplicación",
+        "Garantizar todos los aspectos de la velocidad de servicio del pedido"
+      ]
+    },
+    {
+      "tipo": "tabla",
+      "titulo": "Empaque — Hamburguesas y Sándwiches",
+      "columnas": ["Producto", "Empaque"],
+      "filas": [
+        ["Hamburguesas y sándwiches regulares", "Envolver en papel actual + clamshell Big Angus Burger con etiqueta según producto"],
+        ["Papas Fritas — Chico",                "Caja de Tenders Pequeña"],
+        ["Papas Fritas — Med / Grande",         "Caja de Tenders Grande"],
+        ["Nota",                                "Sin cambios para Big Angus Burgers y Big Chicken Fillet"]
+      ]
+    },
+    {
+      "tipo": "tabla",
+      "titulo": "Responsabilidades del equipo",
+      "columnas": ["Tipo", "Descripción"],
+      "filas": [
+        ["Primarias",    "Ocuparse del invitado de Delivery"],
+        ["Equipo",       "Ayudar a otros miembros a cuidar a los invitados"],
+        ["Recuperación", "Abastecer condimentos, bolsas y utensilios · Limpiar área de delivery inmediatamente"]
+      ]
+    },
+    {
+      "tipo": "lista",
+      "titulo": "Como Líder de Delivery debes...",
+      "items": [
+        "Observar el desempeño del equipo",
+        "Entrenar al equipo",
+        "Ayudarlos según sea necesario",
+        "Mantener al equipo enfocado",
+        "Enfocarse en la velocidad",
+        "Enfocarse en la precisión"
+      ]
+    }
+  ]
+}

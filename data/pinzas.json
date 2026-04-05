@@ -1,0 +1,33 @@
+{
+  "id": "pinzas",
+  "titulo": "Uso de Pinzas",
+  "icono": "🔧",
+  "categoria": "cocina",
+  "acento": "amber",
+  "subtitulo": "Código de colores",
+  "secciones": [
+    {
+      "tipo": "tabla",
+      "titulo": "Código de colores de pinzas",
+      "columnas": ["Tipo de pinza", "Uso exclusivo"],
+      "filas": [
+        ["Metálicas dentadas",  "Carne congelada"],
+        ["Mango azul",         "Pollo Savory"],
+        ["Mango rojo",         "Chicken Tenders"],
+        ["Metálicas genéricas","Uso general"],
+        ["Mango amarillo",     "Quinoa"],
+        ["Espátula larga",     "Carne Big Angus"]
+      ]
+    },
+    {
+      "tipo": "tabla",
+      "titulo": "Congelador — Reglas importantes",
+      "columnas": ["Regla", "Detalle"],
+      "filas": [
+        ["Temperatura máxima",   "Las carnes de hamburguesa no deben rebasar 10°F"],
+        ["Línea de congelación", "Las carnes NO deben rebasar la línea de congelación"],
+        ["Cambio de pinzas",     "Cada 4 horas para lavado y sanitizado"]
+      ]
+    }
+  ]
+}

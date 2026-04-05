@@ -1,0 +1,66 @@
+{
+  "id": "panes",
+  "titulo": "Pan Francés y Panes",
+  "icono": "🍞",
+  "categoria": "cocina",
+  "acento": "blue",
+  "subtitulo": "Vida útil y proceso",
+  "secciones": [
+    {
+      "tipo": "pasos",
+      "titulo": "Pan Francés — Preparación",
+      "pasos": [
+        "Con tenazas, colocar el número necesario en la canastilla de la freidora",
+        "Máximo 10 piezas por canastilla",
+        "Colocar segunda canastilla para que el pan no flote",
+        "Colocar en freidora #1. Presionar alarma. Cocinar 2 minutos",
+        "Retirar del aceite y agitar ligeramente. Escurrir 10–15 segundos",
+        "Verter en charola limpia con papel menú. NO sobre corral de papas",
+        "Colocar 5 piezas en caja Finger Foods",
+        "Espolvorear uniformemente azúcar glass"
+      ]
+    },
+    {
+      "tipo": "tabla",
+      "titulo": "Pan Francés — Tiempo de vida",
+      "columnas": ["Dato", "Valor"],
+      "filas": [
+        ["Tiempo de vida", "10 minutos"]
+      ]
+    },
+    {
+      "tipo": "tabla",
+      "titulo": "Panes congelados — Datos",
+      "columnas": ["Tipo de pan", "Tamaño", "Descongelación", "Vida útil"],
+      "filas": [
+        ["Pan Integral (Honey Wheat)", "4.0\"",  "6 horas", "5 días"],
+        ["Pan Premium",               "4.25\"", "6 horas", "5 días"],
+        ["Pan Sencillo Chico",        "4.0\"",  "6 horas", "5 días"]
+      ]
+    },
+    {
+      "tipo": "tabla",
+      "titulo": "Reglas generales de panes",
+      "columnas": ["Regla", "Detalle"],
+      "filas": [
+        ["Panes tostados",    "Retención de 5 minutos"],
+        ["Con mantequilla",   "Pan Horneado y Sourdough"],
+        ["Orden en asador",   "Tacón: lado izquierdo · Corona: lado derecho"]
+      ]
+    },
+    {
+      "tipo": "lista",
+      "titulo": "Estación Feeder — Reglas",
+      "items": [
+        "Usar siempre pinzas o espátula designada para cada producto",
+        "Carne CKE, Carne Angus y Pollo Savory: enviar al principio de la cadena del asador",
+        "NO poner producto a menos de 2 pulgadas de la orilla de la cadena",
+        "Dejar por lo menos 1 pulgada entre cada producto"
+      ]
+    },
+    {
+      "tipo": "alerta",
+      "texto": "Importante: SIEMPRE lavado de manos y guantes antes de entrar a la estación Feeder."
+    }
+  ]
+}

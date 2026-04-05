@@ -1,0 +1,64 @@
+{
+  "id": "descongelacion",
+  "titulo": "Descongelación",
+  "icono": "❄️",
+  "categoria": "cocina",
+  "acento": "green",
+  "subtitulo": "Angus, Pollo, Quinoa",
+  "secciones": [
+    {
+      "tipo": "tabla",
+      "titulo": "Tiempos de descongelación y vida útil",
+      "columnas": ["Producto", "Descongelación", "Vida útil"],
+      "filas": [
+        ["Carne Angus",              "24 hrs", "5 días"],
+        ["Pollo Savory",             "24 hrs", "5 días"],
+        ["Chicken Tenders",          "48 hrs", "5 días"],
+        ["Pulpa de aguacate",        "24 hrs", "7 días"],
+        ["Salsa Chilli",             "24 hrs", "7 días"],
+        ["Portobello",               "24 hrs", "3 días"],
+        ["Quinoa",                   "24 hrs", "3 días"],
+        ["Filete pollo empanizado",  "48 hrs", "5 días"]
+      ]
+    },
+    {
+      "tipo": "alerta",
+      "texto": "Temperatura estándar de descongelado: 36 a 41°F para TODOS los productos."
+    },
+    {
+      "tipo": "pasos",
+      "titulo": "Descongelación Carne Angus — 8 pasos",
+      "pasos": [
+        "Sacar del congelador la cantidad necesaria de carne cruda 1/3 lb",
+        "Usar charola negra limpia y desinfectada",
+        "Cubrir bandeja con envoltura de plástico",
+        "Con guantes, colocar máximo 5 carnes en la charola",
+        "Cubrir carne con plástico SOLO EN LA PARTE DE ARRIBA",
+        "Etiquetar por 24 horas de descongelación",
+        "Segunda etiqueta: vida útil 5 días (incluye descongelación)",
+        "Colocar carne previamente descongelada ARRIBA. Usar siempre charola superior primero"
+      ]
+    },
+    {
+      "tipo": "tabla",
+      "titulo": "Orden en el refrigerador (arriba → abajo)",
+      "columnas": ["Posición", "Producto"],
+      "filas": [
+        ["1° — Arriba",  "Quinoa Veggie"],
+        ["2°",           "Pulpa de aguacate"],
+        ["3°",           "Portobello"],
+        ["4°",           "Chilli"],
+        ["5°",           "Pollo Savory"],
+        ["6°",           "Carne Angus (5 pzas)"],
+        ["7°",           "Chicken Tenders"],
+        ["8° — Abajo",   "Filete de Pollo"],
+        ["Separado",     "Tocino (parte alta otro anaquel)"],
+        ["Separado",     "Huevo líquido (estante separado)"]
+      ]
+    },
+    {
+      "tipo": "alerta",
+      "texto": "Pollo Savory NO está aprobado para cocción de emergencia. Si el broiler no funciona, no sirva pechuga de pollo Savory."
+    }
+  ]
+}

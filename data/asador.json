@@ -1,0 +1,37 @@
+{
+  "id": "asador",
+  "titulo": "Asador (Broiler)",
+  "icono": "🔥",
+  "categoria": "seguridad",
+  "acento": "blue",
+  "subtitulo": "Temperatura y calibración",
+  "secciones": [
+    {
+      "tipo": "tabla",
+      "titulo": "Temperaturas del equipo",
+      "columnas": ["Dato", "Valor"],
+      "filas": [
+        ["Temperatura interna",       "700 a 750°F"],
+        ["Temperatura placa del pan", "475 a 500°F"],
+        ["Distancia carne a orilla",  "Mínimo 2 pulgadas"],
+        ["Distancia entre carnes",    "Mínimo 1 pulgada"]
+      ]
+    },
+    {
+      "tipo": "pasos",
+      "titulo": "Calibración — al inicio y mensualmente",
+      "pasos": [
+        "Asegurar que todas las piezas del asador estén en su lugar",
+        "Verificar que esté enchufado y que la campana extractora esté encendida",
+        "Encender el asador",
+        "Establecer temperatura en 1000°F (537°C) usando las flechas del control",
+        "Dejar a 1000°F durante 60 minutos exactos — NO cocinar durante este tiempo",
+        "Transcurridos 60 min, ajustar el punto 20°F por debajo de la temperatura real mostrada"
+      ]
+    },
+    {
+      "tipo": "info",
+      "texto": "En el display: el número INFERIOR es la temperatura establecida. El número SUPERIOR es la temperatura real actual del equipo."
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "id": "limpieza",
+  "titulo": "Limpieza y Sanitización",
+  "icono": "🧼",
+  "categoria": "seguridad",
+  "acento": "green",
+  "subtitulo": "Charolas y tarja",
+  "secciones": [
+    {
+      "tipo": "tabla",
+      "titulo": "Código de colores — herramientas de limpieza",
+      "columnas": ["Color", "Área de uso"],
+      "filas": [
+        ["🔴 Rojo", "Comedor, center post y mostrador"],
+        ["🟢 Verde","Áreas de cocina (contacto con el alimento)"],
+        ["🔵 Azul", "Sanitarios y actividades de limpieza general"]
+      ]
+    },
+    {
+      "tipo": "pasos",
+      "titulo": "Tarja de 3 compartimentos — Proceso",
+      "pasos": [
+        "Asegurar que todos los fregaderos estén limpios y desinfectados antes de usar",
+        "LAVADO: Primer compartimiento con agua jabonosa caliente a 120°F para cubrir las charolas",
+        "ENJUAGADO: Compartimiento central vacío",
+        "DESINFECCIÓN: Tercer compartimiento — 38L de agua 65–75°F + 1 sobre de sanitizante = 100 ppm",
+        "Sumergir utensilios completamente en sanitizante durante 60 segundos",
+        "Remover y dejar secar escurriendo. NO usar toallas"
+      ]
+    },
+    {
+      "tipo": "tabla",
+      "titulo": "KAY Sink Sanitizer — Tira de prueba",
+      "columnas": ["Dato", "Valor"],
+      "filas": [
+        ["Concentración requerida",          "50–100 ppm"],
+        ["Tiempo de inmersión de la tira",   "10 segundos — NO mover ni agitar la tira"],
+        ["Cubetas sanitizante cocina/comedor","Cambiar cada 4 horas"],
+        ["Cubetas sanitizante tenders",      "Cambiar cada 2 horas"]
+      ]
+    },
+    {
+      "tipo": "alerta",
+      "texto": "Los utensilios de cocina deben higienizarse cada 4 horas, ya que en ese tiempo se pueden propagar bacterias."
+    }
+  ]
+}

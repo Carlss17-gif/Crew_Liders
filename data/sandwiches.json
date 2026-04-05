@@ -1,0 +1,67 @@
+{
+  "id": "sandwiches",
+  "titulo": "Sándwiches de Pollo",
+  "icono": "🥪",
+  "categoria": "cocina",
+  "acento": "amber",
+  "subtitulo": "Charbroiled y más",
+  "secciones": [
+    {
+      "tipo": "pasos",
+      "titulo": "Charbroiled Chicken Club",
+      "pasos": [
+        "Corona (de trigo)",
+        ".25 oz mayonesa · 2 tiras tocino · 1 queso suizo",
+        "1 pechuga de pollo asada",
+        "1 rebanada tomate · 2 hojas lechuga · .25 oz mayonesa",
+        "Talón (de trigo)"
+      ]
+    },
+    {
+      "tipo": "pasos",
+      "titulo": "Charbroiled BBQ Chicken Sandwich",
+      "pasos": [
+        "Corona (de trigo)",
+        ".50 oz salsa BBQ · 1 pechuga de pollo asada",
+        "1 rebanada tomate · 2 hojas lechuga",
+        "Talón (de trigo)"
+      ]
+    },
+    {
+      "tipo": "pasos",
+      "titulo": "Charbroiled Santa Fe Chicken Sandwich",
+      "pasos": [
+        "Corona (de trigo)",
+        ".50 oz salsa santa fe · 1 queso americano grande",
+        "1 pechuga pollo asada · ½ tira chile verde",
+        "2 hojas lechuga · .50 oz santa fe sauce",
+        "Talón (de trigo)"
+      ]
+    },
+    {
+      "tipo": "pasos",
+      "titulo": "Big Chicken Fillet Sandwich",
+      "pasos": [
+        "Corona (de primera calidad)",
+        ".30 oz mayonesa · 1 filete de pollo (5 oz)",
+        "1 rebanada tomate · 2 hojas lechuga · .30 oz mayonesa",
+        "Talón (de primera calidad)"
+      ]
+    },
+    {
+      "tipo": "tabla",
+      "titulo": "HB Ckn Tender Sandwich — 4 variantes",
+      "columnas": ["Variante", "Ingredientes clave"],
+      "filas": [
+        ["Bacon Swiss",   "Pan chico · .3975 oz Ranch · 2 tiras tocino · 1 queso suizo · 2 tenders · tomate · lechuga"],
+        ["BBQ",          "Pan chico · .329 oz salsa BBQ · 2 tiras tender · tomate · lechuga"],
+        ["Ranch",        "Pan chico · .3975 oz Ranch (espiral mamila) · 2 tiras tender · tomate · lechuga · Ranch"],
+        ["Honey Mustard","Pan chico · .329 oz miel mostaza · 2 tiras tender · tomate · lechuga · miel mostaza"]
+      ]
+    },
+    {
+      "tipo": "alerta",
+      "texto": "IMPORTANTE LOW (Lettuce Wrapped): Colocar bandeja naranja limpia y desinfectada. Colocar lechuga como base. Continuar armado normal sin pan."
+    }
+  ]
+}

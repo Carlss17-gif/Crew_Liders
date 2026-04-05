@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0" />
+  <title>Guía de Estudio — Carl's Jr.</title>
+
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=DM+Sans:wght@400;500;600&display=swap" rel="stylesheet" />
+
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+
+  <div id="mainScreen" class="screen active">
+    <header class="app-header">
+
+      <div class="header-left">
+        <div class="star-badge">★</div>
+        <div>
+          <p class="welcome-label">Bienvenido</p>
+          <h2 class="welcome-name" id="welcomeName">Empleado</h2>
+        </div>
+      </div>
+      <button class="logout-btn" onclick="cerrarSesion()">Salir</button>
+
+    </header>
+
+    <div class="search-wrap">
+      <input
+        type="text"
+        class="search-input"
+        id="searchInput"
+        placeholder="🔍  Buscar módulo..."
+        oninput="buscarModulo(this.value)"
+      />
+    </div>
+    <div class="tabs-wrap">
+      <button class="tab active" onclick="filtrarTab('todos',    this)">Todos</button>
+      <button class="tab"        onclick="filtrarTab('cocina',   this)">🍔 Cocina</button>
+      <button class="tab"        onclick="filtrarTab('seguridad',this)">🛡 Seguridad</button>
+      <button class="tab"        onclick="filtrarTab('servicio', this)">⭐ Servicio</button>
+      <button class="tab"        onclick="filtrarTab('examenes', this)">📝 Exámenes</button>
+    </div>
+
+    <main class="main-content">
+
+      <div id="menuView"></div>
+
+      <div id="detalleView" class="hidden">
+        <button class="back-btn" onclick="cerrarDetalle()">← Regresar al menú</button>
+        <div id="detalleContent"></div>
+      </div>
+
+    </main>
+
+    <footer class="app-footer">
+      Operado por <strong>Cero Tenedor</strong>
+    </footer>
+
+  </div>
+  <script src="app.js"></script>
+
+</body>
+</html>

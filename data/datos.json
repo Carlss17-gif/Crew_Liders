@@ -1,0 +1,43 @@
+{
+  "id": "datos",
+  "titulo": "Datos Importantes",
+  "icono": "📖",
+  "categoria": "servicio",
+  "acento": "purple",
+  "subtitulo": "Definiciones y ROS",
+  "secciones": [
+    {
+      "tipo": "tabla",
+      "titulo": "Definiciones clave",
+      "columnas": ["Siglas", "Significado"],
+      "filas": [
+        ["PCC",       "Punto Crítico de Control"],
+        ["OPM",       "Manual de Operaciones"],
+        ["MSDS",      "Fichas de datos de seguridad de los químicos (Material Safety Data Sheets)"],
+        ["R&M",       "Manual de reparación y mantenimiento"],
+        ["QFM",       "Quality Food Management — Administración de la calidad de alimentos"],
+        ["SOUND OFF", "Medición de tiempos de servicio. Se anuncia el tiempo de preparación desde la estación Centro para generar urgencia"],
+        ["ANSUL",     "Sistema supresor de incendios en plancha, freidora y asador. Solución acuosa de sales orgánicas de PH bajo"],
+        ["R.O.S.",    "Restaurant Operational System — Sistema de organización basado en número de empleados y posiciones por turno"]
+      ]
+    },
+    {
+      "tipo": "info",
+      "texto": "Misión Carl's Jr.: Hacer feliz al invitado. Regla de Oro: Tratar a los demás como te gustaría ser tratado."
+    },
+    {
+      "tipo": "pasos",
+      "titulo": "Puntos de Control de Calidad — en orden",
+      "pasos": [
+        "Centro de distribución",
+        "Restaurante",
+        "Almacenamiento",
+        "Tiempo de vida",
+        "Descongelado",
+        "Preparación",
+        "Armado de la orden",
+        "Invitado"
+      ]
+    }
+  ]
+}

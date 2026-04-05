@@ -1,0 +1,25 @@
+{
+  "id": "recepcion",
+  "titulo": "Recepción de Productos — PEPS",
+  "icono": "📦",
+  "categoria": "cocina",
+  "acento": "red",
+  "subtitulo": "Almacenamiento",
+  "secciones": [
+    {
+      "tipo": "pasos",
+      "titulo": "Proceso de recepción — 5 reglas",
+      "pasos": [
+        "Revisar calidad del producto, caja o embolsado y temperatura de productos refrigerados o congelados",
+        "Almacenar con sistema PEPS (Primeras Entradas, Primeras Salidas). Rotar según fechas de recepción",
+        "Cajas a 6 pulgadas del suelo y 2 pulgadas de la pared (evitar humedad y descongelación)",
+        "Productos congelados: recibir 0–10°F · Productos refrigerados: recibir 36–41°F",
+        "Productos NO deben estar fuera del camión o cámara más de 10 minutos"
+      ]
+    },
+    {
+      "tipo": "info",
+      "texto": "Círculo de influencia: Las cosas que hace cada persona en su área inmediata que afectan QSC (Calidad, Servicio, Limpieza)."
+    }
+  ]
+}

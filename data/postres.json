@@ -1,0 +1,63 @@
+{
+  "id": "postres",
+  "titulo": "Postres y Helados",
+  "icono": "🍦",
+  "categoria": "cocina",
+  "acento": "purple",
+  "subtitulo": "Malteadas y conos",
+  "secciones": [
+    {
+      "tipo": "tabla",
+      "titulo": "Malteadas — Porciones y velocidad",
+      "columnas": ["Dato", "Valor"],
+      "filas": [
+        ["Malteada Grande",                "PREP 8 oz (2 bolas de 4 oz c/u)"],
+        ["Malteada Chica",                 "PREP 6 oz (2 bolas de 3 oz c/u)"],
+        ["Velocidad batidora (anterior)",  "40 RPM"],
+        ["Velocidad batidora (actualizada)","80 RPM"],
+        ["Ajuste control batidora",        "\"40\" antes de preparar"],
+        ["Tiempo de vida vaso metálico",   "4 horas"]
+      ]
+    },
+    {
+      "tipo": "pasos",
+      "titulo": "Proceso de malteada — 10 pasos",
+      "pasos": [
+        "Obtener porción de helado vainilla en vaso (según tamaño)",
+        "Añadir cucharada de oreo molido (si aplica) o push de jarabe de vainilla",
+        "Verter leche fresca hasta línea de llenado. Presionar lados para remover burbujas",
+        "Colocar tapa de cúpula transparente",
+        "Ajustar velocidad de la mezcladora a 40",
+        "Colocar vaso alrededor del eje hasta la mitad del vaso",
+        "Encender y mezclar moviendo arriba y abajo. Tocar el fondo. Mezcla uniforme sin grumos",
+        "Apagar y remover. Debe ser espesa, NO aguada. Si no es adecuada: desechar y repetir",
+        "Llenar tapa con crema batida",
+        "Servir con popote"
+      ]
+    },
+    {
+      "tipo": "tabla",
+      "titulo": "Helado — Super Conos",
+      "columnas": ["Dato", "Valor"],
+      "filas": [
+        ["Bola sencilla",                "4 oz"],
+        ["Tiempo dipwell",               "4 horas"],
+        ["Cambio de sabores",            "Enjuagar bien el cucharon y escurrir el exceso de agua"]
+      ]
+    },
+    {
+      "tipo": "tabla",
+      "titulo": "Chocolate Chip Cookie — Descongelación",
+      "columnas": ["Opción", "Proceso", "Descarte"],
+      "filas": [
+        ["Opción 1 — Contenedor plástico", "Refrigerar 36–41°F 6 horas", "72 horas"],
+        ["Opción 2 — Charola metálica",    "Mín 10, máx 20 galletas · refrigerar 6 horas", "3 días"],
+        ["Almacenamiento empaque",          "Bandeja 1/3 x 6\" máx 8 de alto", "3 días"]
+      ]
+    },
+    {
+      "tipo": "alerta",
+      "texto": "No recongelar producto una vez descongelado. No dejar galletas descongeladas sin empacar. Cualquier galleta seca, rota o alterada: desechar."
+    }
+  ]
+}

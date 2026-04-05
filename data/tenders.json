@@ -1,0 +1,65 @@
+{
+  "id": "tenders",
+  "titulo": "Estación de Tenders",
+  "icono": "🍗",
+  "categoria": "cocina",
+  "acento": "red",
+  "subtitulo": "Tiempos y receta",
+  "secciones": [
+    {
+      "tipo": "tabla",
+      "titulo": "Tiempos de vida en estación",
+      "columnas": ["Producto", "Vida en uso", "Observaciones"],
+      "filas": [
+        ["Pan molido",       "7 días en uso / 14 días bulto abierto", "Cernir cada 4h o cada 2 bolsas de tenders"],
+        ["Chicken Tenders",  "48 horas",  "Conservar a 36–41°F"],
+        ["Filete",           "48 horas",  "Conservar a 36–41°F"],
+        ["Capeado",          "12 horas",  "24 horas en refrigeración (reserva)"],
+        ["Agua sanitizada",  "2 horas",   "100 ppm · 65°F a 75°F"]
+      ]
+    },
+    {
+      "tipo": "tabla",
+      "titulo": "Mezcla Tenders — Receta",
+      "columnas": ["Dato", "Valor"],
+      "filas": [
+        ["Agua",           "52 oz a 36–41°F"],
+        ["Mezcla",         "1 bolsa Buttermilk"],
+        ["Vida en uso",    "12 horas"],
+        ["Vida reserva",   "24 horas en refrigeración"],
+        ["Temperatura",    "36 a 41°F"]
+      ]
+    },
+    {
+      "tipo": "tabla",
+      "titulo": "Tiempos de vida — Aderezos y condimentos",
+      "columnas": ["Producto", "Vida en uso", "Vida refrigeración"],
+      "filas": [
+        ["Salsa BBQ",             "48 hrs", "7 días"],
+        ["Salsa Teriyaki",        "48 hrs", "14 días"],
+        ["Salsa Santa Fe",        "48 hrs", "7 días"],
+        ["Salsa Clásica",         "48 hrs", "7 días"],
+        ["Salsa Especial",        "48 hrs", "7 días"],
+        ["Mayonesa",              "48 hrs", "10 días"],
+        ["Cátsup / Mostaza",      "10 días","10 días"],
+        ["Queso americano/suizo", "4 hrs",  "7 días"],
+        ["Queso mixto rallado",   "4 hrs agua hielo / 24 hrs refri", "5 días"],
+        ["Lechuga / Tomate",      "4 hrs",  "24 hrs"],
+        ["Cebolla blanca/morada", "4 hrs",  "24 hrs"],
+        ["Jalapeño en rodajas",   "48 hrs", "7 días"],
+        ["Pepinillo",             "48 hrs", "10 días cubeta abierta"],
+        ["Salsa Ranch",           "48 hrs", "5 días"],
+        ["Salsa Honey Mustard",   "48 hrs", "14 días"],
+        ["Queso Nacho",           "6 hrs en vaporera", "5 días"],
+        ["Guacamole preparado",   "12 hrs", "36 hrs"],
+        ["Piña",                  "48 hrs", "48 hrs"],
+        ["Mantequilla",           "Al final del día (rueda)", "21 días bote abierto"],
+        ["Huevo",                 "24 hrs en cambro", "5 días bote cerrado"]
+      ]
+    },
+    {
+      "tipo": "alerta",
+      "texto": "Almacenar huevo en la parte más baja del anaquel. NO debajo de Tenders y Filete."
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "id": "quejas",
+  "titulo": "Manejo de Quejas",
+  "icono": "💬",
+  "categoria": "servicio",
+  "acento": "green",
+  "subtitulo": "Escuchar y satisfacer",
+  "secciones": [
+    {
+      "tipo": "tabla",
+      "titulo": "Los 4 pasos para resolver una queja",
+      "columnas": ["Letra", "Paso", "Cómo hacerlo"],
+      "filas": [
+        ["E", "Escuchar",    "Nunca interrumpir al invitado ni dar impresión de estar distraído"],
+        ["D", "Disculparse", "Sin admitir culpa. Decir: \"Siento que haya tenido una mala experiencia\""],
+        ["S", "Satisfacer",  "Preguntar qué puede hacer para resolver. Hacer todo lo posible por el invitado"],
+        ["A", "Agradecer",   "Agradecer siempre que notificó la situación y dio la oportunidad de arreglarla"]
+      ]
+    },
+    {
+      "tipo": "pasos",
+      "titulo": "Procedimiento completo — 6 pasos",
+      "pasos": [
+        "Siempre escuchar, nunca interrumpir al invitado",
+        "Mantener la calma y no ponerse a la defensiva",
+        "Disculparse sin admitir culpa: \"Siento que haya tenido una mala experiencia\"",
+        "Preguntar qué puede hacer para resolver la situación",
+        "Obtener tanta información como sea posible y transmitirla al equipo",
+        "Siempre agradecer al invitado la oportunidad de arreglar la situación"
+      ]
+    },
+    {
+      "tipo": "alerta",
+      "texto": "Importante: Si un invitado solicita número para quejarse o comentar sobre una sucursal, proporcionar el número del Gerente de Operaciones."
+    }
+  ]
+}

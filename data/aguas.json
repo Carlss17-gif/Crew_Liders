@@ -1,0 +1,51 @@
+{
+  "id": "aguas",
+  "titulo": "Aguas Frescas",
+  "icono": "💧",
+  "categoria": "cocina",
+  "acento": "blue",
+  "subtitulo": "Preparación y receta",
+  "secciones": [
+    {
+      "tipo": "info",
+      "texto": "14 litros de agua asegurados: Medir en cubeta de 20L con jarra medidora. Marcar con plumón Sharpie el nivel en el exterior de la cubeta de forma visible y permanente."
+    },
+    {
+      "tipo": "pasos",
+      "titulo": "Preparación de aguas — 6 pasos",
+      "pasos": [
+        "Usar cubeta de 20L limpia y desinfectada. Retirar agua fría del refrigerador",
+        "Verter 14 litros de agua fría en la cubeta. Agregar botella de azúcar líquida",
+        "Mezclar con batidor hasta obtener mezcla homogénea",
+        "Agregar 1 litro de concentrado F-Díaz sin azúcar añadida. Agitar hasta color uniforme",
+        "Dividir receta en dos con cubeta de 10 litros",
+        "Tapar y etiquetar 48 horas de vida útil. Llevar a refrigeración"
+      ]
+    },
+    {
+      "tipo": "pasos",
+      "titulo": "Llenado de la máquina",
+      "pasos": [
+        "Usar cubeta de 10L para llenar. Con equipo APAGADO verter en dispensador Vollrath respetando niveles mínimos y máximos",
+        "Prender la máquina y activar bowls individuales para circular las aspas de cada tina",
+        "Tapar contenedores y probar flujo con los grifos. Colocar tiempo de descarte en la tabla de la estación"
+      ]
+    },
+    {
+      "tipo": "tabla",
+      "titulo": "Tiempos de vida y mantenimiento",
+      "columnas": ["Dato", "Valor"],
+      "filas": [
+        ["Vida en tolvas",        "7 días — se desechan los lunes"],
+        ["Vida en refrigeración", "48 horas"],
+        ["Limpieza del equipo",   "Lunes, Miércoles y Viernes"],
+        ["Resurtir",              "Cuando llegue a 1/3 de capacidad"],
+        ["Verificar marcas",      "Semanal durante limpieza de tolvas"]
+      ]
+    },
+    {
+      "tipo": "alerta",
+      "texto": "Usar agua potable previamente enfriada 33–41°F. NO agregar hielos dispersos en el equipo — eso lo daña."
+    }
+  ]
+}

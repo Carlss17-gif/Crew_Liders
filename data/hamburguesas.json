@@ -1,0 +1,94 @@
+{
+  "id": "hamburguesas",
+  "titulo": "Preparación de Hamburguesas",
+  "icono": "🍔",
+  "categoria": "cocina",
+  "acento": "amber",
+  "subtitulo": "Preparación y armado",
+  "secciones": [
+    {
+      "tipo": "pasos",
+      "titulo": "Famous Star® con queso",
+      "pasos": [
+        "Corona (con semillas)",
+        ".30 oz mayonesa · .62 oz salsa especial",
+        "1 queso americano grande · 1 hamburguesa",
+        "3 aros cebolla amarilla · 1 rebanada tomate · 2 hojas lechuga",
+        "3 rodajas pepinillo (dill) · .30 oz mayonesa",
+        "Talón (con semillas)"
+      ]
+    },
+    {
+      "tipo": "pasos",
+      "titulo": "Super Star® con queso",
+      "pasos": [
+        "Corona (con semillas)",
+        ".30 oz mayonesa · .62 oz salsa especial",
+        "1 queso americano grande · 1 hamburguesa · 1 queso americano grande · 1 hamburguesa",
+        "3 aros cebolla amarilla · 2 rebanadas tomate · 2 hojas lechuga",
+        "3 rod. pepinillos (dill) · .30 oz mayonesa",
+        "Talón (con semillas)"
+      ]
+    },
+    {
+      "tipo": "pasos",
+      "titulo": "Western Bacon Cheeseburger®",
+      "pasos": [
+        "Corona (con semillas)",
+        ".50 oz salsa BBQ · 2 bacon strips",
+        "1 queso americano grande · 1 hamburguesa",
+        "2 aros de cebolla frita · .50 oz salsa BBQ",
+        "Talón (con semillas)"
+      ]
+    },
+    {
+      "tipo": "pasos",
+      "titulo": "The Big Carl®",
+      "pasos": [
+        "Corona (con semillas)",
+        ".60 oz salsa clásica · 1 queso americano grande",
+        "1 hamburguesa · 1 queso americano grande · 1 hamburguesa",
+        "2 hojas lechuga · .60 oz salsa clásica",
+        "Talón (con semillas)"
+      ]
+    },
+    {
+      "tipo": "pasos",
+      "titulo": "Big Hamburger con queso",
+      "pasos": [
+        "Corona (con semillas)",
+        ".33 oz ketchup (3 espirales) · .25 oz mostaza (2 formas de Z)",
+        "1 queso americano · 1 hamburguesa",
+        "3 aros cebolla amarilla · 3 rodajas pepinillo (dill)",
+        ".33 oz ketchup (3 orde espiral) · Talón (con semillas)"
+      ]
+    },
+    {
+      "tipo": "pasos",
+      "titulo": "The Original Thickburger® (Angus 1/3 lb)",
+      "pasos": [
+        "Corona (de primera calidad)",
+        ".30 oz mayonesa · .33 oz ketchup · .12 oz mostaza",
+        "1 queso americano grande · hamburguesa angus 1/3 lb",
+        "3 aros cebolla roja · 2 rebanadas tomate · 2 hojas lechuga",
+        "3 rod. pepinillos · .30 oz mayonesa",
+        "Talón (de primera calidad)"
+      ]
+    },
+    {
+      "tipo": "pasos",
+      "titulo": "The Guacamole Bacon Thickburger®",
+      "pasos": [
+        "Corona (de primera calidad)",
+        ".50 oz salsa santa fe · 2 cuch. guacamole #60",
+        "2 tiras de tocino · 1 queso peperjack · hamburguesa angus 1/3",
+        "3 aros cebolla roja · 2 rebanadas tomate · 2 hojas lechuga",
+        ".50 oz salsa santa fe · Talón (de primera calidad)"
+      ]
+    },
+    {
+      "tipo": "alerta",
+      "texto": "Dispensador Sal y Pimienta Angus: Sostener a 6 pulgadas de altura. Un clic en el centro antes de colocar en parrilla. Limpiar semanalmente. Descarte cada 7 días."
+    }
+  ]
+}

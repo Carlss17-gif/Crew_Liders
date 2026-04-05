@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="stylesheet" href="examenpp.css">
+<script src="https://unpkg.com/@supabase/supabase-js@2"></script>
+</head>
+<body>
+<div id="contenedor">
+
+  <div id="header">
+    <h2 id="titulo">Cargando...</h2>
+    <img id="logo" src="tit.jpeg" alt="Logo examen" />
+  </div>
+
+  <div id="preguntas"></div>
+
+  <button onclick="enviar()" style="padding:12px 25px; font-size:16px; border:none; border-radius:8px; cursor:pointer; background:#007BFF; color:white; margin-bottom: 30px;">
+    Enviar respuestas
+  </button>
+
+</div>
+<script src="supabase.js"></script>
+<script src="examen.js"></script>
+
+</body>
+</html>

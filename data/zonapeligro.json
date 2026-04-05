@@ -1,0 +1,38 @@
+{
+  "id": "zonapeligro",
+  "titulo": "Zona de Peligro — Temperaturas",
+  "icono": "🌡",
+  "categoria": "seguridad",
+  "acento": "red",
+  "subtitulo": "Temperaturas críticas",
+  "secciones": [
+    {
+      "tipo": "alerta",
+      "texto": "ZONA DE PELIGRO: 41°F a 140°F — Las bacterias se desarrollan con rapidez en este rango y provocan enfermedades."
+    },
+    {
+      "tipo": "temperaturas",
+      "titulo": "Tabla de temperaturas del restaurante",
+      "items": [
+        { "temp": "700–750°F", "desc": "Broiler (asador de carne)" },
+        { "temp": "475–500°F", "desc": "Platina del pan" },
+        { "temp": "350°F",     "desc": "Freidoras (±5°F)" },
+        { "temp": "325°F",     "desc": "Horno Blodget (pan horneado, tocino)" },
+        { "temp": "325°F",     "desc": "Cocción de galletas" },
+        { "temp": "300–325°F", "desc": "Parrilla desayunos: 300°F huevo / 325°F carnes y hotcakes" },
+        { "temp": "225°F",     "desc": "Prince Castle (retención)" },
+        { "temp": "190–200°F", "desc": "Agua para cafetera" },
+        { "temp": "180–200°F", "desc": "Steamer (vaporera)" },
+        { "temp": "165°F",     "desc": "Tenders, estrellas, filete, chilli, porto, salsa queso" },
+        { "temp": "160°F",     "desc": "Carne CKE, Angus y Quinoa" },
+        { "temp": "140°F",     "desc": "Pollo Savory y productos en retención" },
+        { "temp": "120°F",     "desc": "Agua de tarja de lavado" },
+        { "temp": "110°F",     "desc": "Agua de lavamanos" },
+        { "temp": "65–75°F",   "desc": "Agua sanitizante (solución)" },
+        { "temp": "50°F",      "desc": "Agua para lavado de vegetales" },
+        { "temp": "36–41°F",   "desc": "Temperatura de refrigeración" },
+        { "temp": "0–10°F",    "desc": "Temperatura de congelación" }
+      ]
+    }
+  ]
+}

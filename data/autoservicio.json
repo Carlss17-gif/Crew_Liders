@@ -1,0 +1,54 @@
+{
+  "id": "autoservicio",
+  "titulo": "Auto Servicio — Drive Thru",
+  "icono": "🚗",
+  "categoria": "servicio",
+  "acento": "red",
+  "subtitulo": "Drive Thru estándares",
+  "secciones": [
+    {
+      "tipo": "tabla",
+      "titulo": "Estándares de tiempo",
+      "columnas": ["Paso", "Tiempo máximo"],
+      "filas": [
+        ["Saludo en bocina",                    "Inmediatamente"],
+        ["Tablero del menú (saludo y orden)",   "45 segundos o menos"],
+        ["Tiempo en ventanilla por vehículo",   "1:00 minuto o menos"],
+        ["Tiempo en cola por auto",             "4:00 minutos o menos"]
+      ]
+    },
+    {
+      "tipo": "lista",
+      "titulo": "5 Conductas Clave",
+      "items": [
+        "Las bebidas están listas cuando el vehículo llega a la ventanilla",
+        "Las bebidas y popotes son lo primero que sale de la ventana al recibir el pago",
+        "Los condimentos están listos antes de que los alimentos lleguen a la zona de preparación",
+        "Los alimentos y condimentos están listos antes de que se complete el pago",
+        "Los alimentos y condimentos se entregan cuando se entrega el cambio"
+      ]
+    },
+    {
+      "tipo": "tabla",
+      "titulo": "Actitud esperada del empleado",
+      "columnas": ["Aspecto", "Detalle"],
+      "filas": [
+        ["Saludo",    "Amistoso siempre"],
+        ["Expresión", "Sonrisa y contacto visual"],
+        ["Lenguaje",  "Frases apropiadas · \"Por favor\" y \"Gracias\""]
+      ]
+    },
+    {
+      "tipo": "tabla",
+      "titulo": "Guión SMART — Venta sugerida",
+      "columnas": ["Letra", "Acción", "Ejemplo de frase"],
+      "filas": [
+        ["S", "Sonría y sugiera",        "\"Hola, ¿le gustaría probar nuestra nueva hamburguesa The Team Burger?\""],
+        ["M", "Combo, tamaño y pan",     "\"¿Grande le parece bien? ¿Con pan premium?\""],
+        ["A", "Adicionales",             "\"¿Le gustaría agregar una malteada grande?\""],
+        ["R", "Repita la orden",         "Confirmar y preguntar: ¿Para comer aquí o para llevar?"],
+        ["T", "Gracias",                 "\"Gracias, que tenga buen provecho. Vuelva pronto\""]
+      ]
+    }
+  ]
+}

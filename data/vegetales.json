@@ -1,0 +1,81 @@
+{
+  "id": "vegetales",
+  "titulo": "Vegetales y Preparación",
+  "icono": "🥗",
+  "categoria": "cocina",
+  "acento": "green",
+  "subtitulo": "Lavado y temperado",
+  "secciones": [
+    {
+      "tipo": "pasos",
+      "titulo": "Lavado de vegetales — 8 pasos",
+      "pasos": [
+        "Lavar, enjuagar y desinfectar todas las superficies de la tina del prep antes de usar",
+        "Separar vegetales por tipo. Solo el mismo producto se lava junto",
+        "Quitar hojas exteriores y tallos de lechuga, tomate o cebolla",
+        "Lavarse bien las manos durante 20 segundos",
+        "Llenar tina con agua fría a 50°F",
+        "Añadir sobre de Vegi Wash. Concentración de 100 ppm",
+        "Sumergir 3 minutos. Cambiar solución si baja de concentración",
+        "Enjuagar con agua corriente fría y colocar en recipiente desinfectado"
+      ]
+    },
+    {
+      "tipo": "tabla",
+      "titulo": "Temperado de Vegetales",
+      "columnas": ["Dato", "Valor"],
+      "filas": [
+        ["Tiempo total de vida",  "4 horas (incluye 2 hrs de temperado)"],
+        ["Ejemplo apertura 10am", "Sacar 8am → etiquetar 10am → línea 12pm"]
+      ]
+    },
+    {
+      "tipo": "tabla",
+      "titulo": "Ensaladas — Receta base",
+      "columnas": ["Ingrediente", "Receta completa", "Media receta"],
+      "filas": [
+        ["Lechuga romana",  "1.600 kg (3.53 lb)", ".800 kg (1.75 lb)"],
+        ["Lechuga orejona", "700 g (1.54 lb)",    "350 g (.75 lb)"],
+        ["Col morada",      "300 g (.66 lb)",      "150 g (.33 lb)"],
+        ["Zanahoria",       "400 g (.88 lb)",      "200 g (.44 lb)"],
+        ["Peso total",      "3 kg (106 oz)",       "1.5 kg (53 oz)"]
+      ]
+    },
+    {
+      "tipo": "tabla",
+      "titulo": "Receta Salsa Fresca",
+      "columnas": ["Ingrediente", "Cantidad"],
+      "filas": [
+        ["Tomate",              "128 oz"],
+        ["Cebolla blanca",      "64 oz"],
+        ["Jalapeños congelados","24 oz"],
+        ["Cilantro",            "12 oz"],
+        ["Sal",                 "1 cuchara copeteada de 10\""],
+        ["Tiempo de vida",      "48 horas en refrigeración 36–41°F"]
+      ]
+    },
+    {
+      "tipo": "pasos",
+      "titulo": "Receta Guacamole",
+      "pasos": [
+        "Poner un interior de guacamole en recipiente de 6\" de profundidad",
+        "Llenar jarra de 32 oz con salsa fresca BIEN ESCURRIDA",
+        "Agregar salsa fresca a la pulpa de aguacate",
+        "Mezclar bien con cuchara limpia y pasar a contenedor limpio"
+      ]
+    },
+    {
+      "tipo": "tabla",
+      "titulo": "Tiempos de vida — Guacamole",
+      "columnas": ["Condición", "Tiempo"],
+      "filas": [
+        ["En refrigeración", "36 horas"],
+        ["En línea",         "12 horas"]
+      ]
+    },
+    {
+      "tipo": "alerta",
+      "texto": "Mantener guacamole y salsa fresca siempre a temperatura de 36 a 41°F."
+    }
+  ]
+}

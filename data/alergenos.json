@@ -1,0 +1,54 @@
+{
+  "id": "alergenos",
+  "titulo": "Alérgenos y Seguridad",
+  "icono": "⚠️",
+  "categoria": "seguridad",
+  "acento": "purple",
+  "subtitulo": "9 alérgenos principales",
+  "secciones": [
+    {
+      "tipo": "info",
+      "texto": "Un alérgeno es un agente que, al ingresar al organismo humano lo deja vulnerable y es capaz de originar una reacción alérgica."
+    },
+    {
+      "tipo": "tabla",
+      "titulo": "Los 9 alérgenos principales",
+      "columnas": ["Código", "Alérgeno"],
+      "filas": [
+        ["Le",    "Leche / Lácteos"],
+        ["Tri",   "Trigo / Gluten"],
+        ["So",    "Soja / Soya"],
+        ["Hue",   "Huevo"],
+        ["Pes",   "Pescado"],
+        ["Ma",    "Mariscos / Crustáceos / Moluscos"],
+        ["Ca",    "Cacahuate"],
+        ["Nu",    "Nueces / Frutos de cáscara"],
+        ["Sés",   "Sésamo / Granos de sésamo"]
+      ]
+    },
+    {
+      "tipo": "tabla",
+      "titulo": "CHATTO — Condiciones para reproducción de bacterias",
+      "columnas": ["Letra", "Significado"],
+      "filas": [
+        ["C", "Comida"],
+        ["H", "Humedad"],
+        ["A", "Acidez"],
+        ["T", "Tiempo"],
+        ["T", "Temperatura"],
+        ["O", "Oxígeno"]
+      ]
+    },
+    {
+      "tipo": "tabla",
+      "titulo": "RAPA — Condiciones para reproducción de plagas",
+      "columnas": ["Letra", "Significado"],
+      "filas": [
+        ["R", "Refugio"],
+        ["A", "Alimento"],
+        ["P", "Pareja"],
+        ["A", "Agua"]
+      ]
+    }
+  ]
+}

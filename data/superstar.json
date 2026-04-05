@@ -1,0 +1,38 @@
+{
+  "id": "superstar",
+  "titulo": "Servicio Super Star",
+  "icono": "🌟",
+  "categoria": "servicio",
+  "acento": "yellow",
+  "subtitulo": "5 picos de la estrella",
+  "secciones": [
+    {
+      "tipo": "tabla",
+      "titulo": "5 Picos de la Estrella",
+      "columnas": ["Pico", "Principio", "Significado"],
+      "filas": [
+        ["#1", "El invitado es siempre lo primero",              "Prioridad #1 SIEMPRE"],
+        ["#2", "Hazlo bien desde la primera vez",               "Exactitud de la orden"],
+        ["#3", "No discuta, haga lo correcto",                  "Deje contento al invitado"],
+        ["#4", "Es un placer servir a los invitados",           "Mi estupenda actitud de servicio"],
+        ["#5", "Yo soy el responsable del servicio que doy",   "Responsabilidad personal"]
+      ]
+    },
+    {
+      "tipo": "tabla",
+      "titulo": "Significado de SUPER",
+      "columnas": ["Letra", "Palabra", "Descripción"],
+      "filas": [
+        ["S", "Sonrisas",    "Son gratis, todos merecen una"],
+        ["U", "Urgencia",    "Trabajar rápido para dar un gran servicio"],
+        ["P", "Es un Placer","\"Por favor\", \"Gracias\" y \"Es un placer\" hacen la diferencia"],
+        ["E", "Enfocado",    "Conecta y reconoce, contacto visual, concéntrate en el invitado"],
+        ["R", "Recuperar",   "Escuchar, disculpar, satisfacer, agradecer"]
+      ]
+    },
+    {
+      "tipo": "info",
+      "texto": "Misión de Carl's Jr.: Hacer feliz al invitado. Regla de Oro: Tratar a los demás como te gustaría ser tratado."
+    }
+  ]
+}

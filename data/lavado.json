@@ -1,0 +1,35 @@
+{
+  "id": "lavado",
+  "titulo": "Lavado de Manos",
+  "icono": "🙌",
+  "categoria": "seguridad",
+  "acento": "blue",
+  "subtitulo": "Procedimiento completo",
+  "secciones": [
+    {
+      "tipo": "pasos",
+      "titulo": "Procedimiento — 5 pasos",
+      "pasos": [
+        "Dispensar toalla de papel antes de iniciar. Usar el lavamanos designado. Mojar con agua caliente y jabón del dispensador de pared",
+        "Frotar manos, muñecas y antebrazos por 20 segundos. Enjuagar completamente con agua caliente",
+        "Secar con toallas de papel. Usar una toalla para cerrar la llave del agua, luego tirarla a la basura",
+        "Aplicar gel antibacterial del dispensador montado en la pared",
+        "Con manos limpias, ponerse guantes de plástico limpios. Cada cambio de guantes requiere lavado de manos"
+      ]
+    },
+    {
+      "tipo": "lista",
+      "titulo": "Cuándo DEBES lavarte las manos — obligatorio",
+      "items": [
+        "Cada 20 minutos durante el turno",
+        "Antes de entrar al turno",
+        "Antes de manipular alimentos",
+        "Antes de entrar a tu estación de trabajo",
+        "Si te tocas alguna parte del cuerpo",
+        "Después de usar el baño",
+        "Después de comer",
+        "Regularmente durante el turno"
+      ]
+    }
+  ]
+}

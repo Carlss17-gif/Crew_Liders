@@ -1,0 +1,66 @@
+{
+  "id": "tocino",
+  "titulo": "Tocino y Chilli",
+  "icono": "🥓",
+  "categoria": "cocina",
+  "acento": "amber",
+  "subtitulo": "Proceso y tiempos",
+  "secciones": [
+    {
+      "tipo": "tabla",
+      "titulo": "Tocino — Tiempos y retención",
+      "columnas": ["Dato", "Valor"],
+      "filas": [
+        ["Retención bajo calor",     "1 hora por división"],
+        ["Vida porcionado",          "36 horas para calentar"],
+        ["Vida bolsa abierta",       "5 días en refrigeración"],
+        ["Microondas 1200W — 1 hoja/10 tiras",  "25 segundos"],
+        ["Microondas 1200W — 2 hojas/20 tiras", "45 segundos"],
+        ["Microondas 1700-1800W — 1 hoja/10 tiras",  "20 segundos"],
+        ["Microondas 1700-1800W — 2 hojas/20 tiras", "35 segundos"],
+        ["Máximo en rejilla",        "50 tiras (5 hojas)"]
+      ]
+    },
+    {
+      "tipo": "pasos",
+      "titulo": "Proceso de calentamiento — 6 pasos",
+      "pasos": [
+        "Lavarse y desinfectarse las manos",
+        "Con guantes, retirar 10 rebanadas del papel vegetal y colocar directamente en la rejilla",
+        "Extender uniformemente sobre las ranuras en la misma dirección",
+        "Repetir pasos 2 y 3 hasta máximo 5 capas",
+        "Colocar en División 1 bajo la lámpara de calor (máximo 50 tiras) — precalentar 5 minutos",
+        "Pasar a División 2 — tiempo de vida 1 hora"
+      ]
+    },
+    {
+      "tipo": "alerta",
+      "texto": "El tocino siempre DEBE calentarse. Nunca colocar tocino frío sobre un sándwich o producto de desayuno."
+    },
+    {
+      "tipo": "pasos",
+      "titulo": "Proceso de Chilli — Preparación",
+      "pasos": [
+        "Cocinar 8 carnes grandes en asador. Temperatura interna 160°F",
+        "Retirar y colocar en tabla limpia y desinfectada",
+        "Apilar 2 carnes y cortar en trozos pequeños (.32–.25 cm o 1/8–1/10 pulgadas)",
+        "Agregar carne picada a la salsa de Chilli caliente. Revolver 30 segundos",
+        "Asegurar temperatura interna de 165°F. Recalentar en intervalos de 1 minuto si es necesario",
+        "Colocar en recipiente 6\" x 1/3 o 1/6 en vaporera. Registrar tiempo de vida"
+      ]
+    },
+    {
+      "tipo": "tabla",
+      "titulo": "Chilli — Tiempos de vida",
+      "columnas": ["Dato", "Valor"],
+      "filas": [
+        ["Tiempo de vida en vaporera", "5 horas"],
+        ["Temperatura mínima",         "140°F"]
+      ]
+    },
+    {
+      "tipo": "alerta",
+      "texto": "NOTA: No está autorizado cocinar y refrigerar carne para elaborar el Chilli. La carne debe cocinarse cada que sea necesario."
+    }
+  ]
+}

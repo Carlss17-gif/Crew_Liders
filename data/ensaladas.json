@@ -1,0 +1,53 @@
+{
+  "id": "ensaladas",
+  "titulo": "Ensaladas",
+  "icono": "🥙",
+  "categoria": "cocina",
+  "acento": "green",
+  "subtitulo": "Receta y armado",
+  "secciones": [
+    {
+      "tipo": "tabla",
+      "titulo": "Porción y tiempo de vida",
+      "columnas": ["Dato", "Valor"],
+      "filas": [
+        ["Porción",         "6.5 oz en contenedor — que quede visualmente lleno"],
+        ["Tiempo de vida",  "12 horas en refrigeración"]
+      ]
+    },
+    {
+      "tipo": "pasos",
+      "titulo": "Armado de ensalada — posición del reloj",
+      "pasos": [
+        "6.5 oz de mezcla de lechuga en contenedor",
+        "Queso cheddar a las 12 con cucharon de plástico transparente de 10\"",
+        "2 aros de cebolla morada a las 3 (ligeramente empalmadas)",
+        "2 rebanadas de pepino a las 6 (ligeramente empalmadas)",
+        "2 cuñas de tomate a las 9 (ligeramente empalmadas)",
+        "Colocar tapa y servir inmediatamente o refrigerar (máx 12 horas)"
+      ]
+    },
+    {
+      "tipo": "tabla",
+      "titulo": "Servicio y acompañamiento",
+      "columnas": ["Elemento", "Detalle"],
+      "filas": [
+        ["Aderezo",  "2 cups con cada ensalada verde (salvo que el invitado indique lo contrario)"],
+        ["Incluye",  "2 servilletas y un tenedor (cuchillo solo para ensaladas con pollo)"]
+      ]
+    },
+    {
+      "tipo": "tabla",
+      "titulo": "Corte de pollo para ensalada",
+      "columnas": ["Tipo", "Corte"],
+      "filas": [
+        ["Charbroiled Chicken", "12 piezas — 2 cortes transversales + 3 cortes al ancho"],
+        ["Tenders",             "3 piezas con cortador de metal · colocar al centro"]
+      ]
+    },
+    {
+      "tipo": "info",
+      "texto": "El pollo y los tenders siempre se sirven calientes. Se pueden usar piezas de retención siempre y cuando no se hayan vencido."
+    }
+  ]
+}

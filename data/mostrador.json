@@ -1,0 +1,33 @@
+{
+  "id": "mostrador",
+  "titulo": "Área del Mostrador",
+  "icono": "🏪",
+  "categoria": "servicio",
+  "acento": "blue",
+  "subtitulo": "Tiempos de vida",
+  "secciones": [
+    {
+      "tipo": "tabla",
+      "titulo": "Tiempos de vida — Mostrador",
+      "columnas": ["Producto", "Vida en uso", "Observaciones"],
+      "filas": [
+        ["Oreo cookie crumbs",              "48 hrs",  "7 días bolsa abierta en almacén"],
+        ["Conos para helado",               "48 hrs",  "10 días caja abierta"],
+        ["Helados fresa, vainilla, chocolate","21 días abierto","45 días congelador · poner 3 fechas: apertura, recepción, caducidad"],
+        ["Jarabe de vainilla",              "30 días", "No exceder fecha del envase"],
+        ["Galleta (cookie)",                "72 horas","—"],
+        ["Leche",                           "7 días en uso","Fecha indicada del bote o caja"],
+        ["Prep de malteadas",               "12 horas","Grande: 8 oz (2×4 oz) · Chica: 6 oz (2×3 oz)"],
+        ["Crema batida",                    "Fecha del bote","—"],
+        ["Café",                            "1 hora",  "Mantener arriba de 165°F"],
+        ["Cubetas sanitizante comedor/cocina","4 horas","100 ppm · 65–75°F"],
+        ["Cubetas sanitizante tenders",     "2 horas", "100 ppm · 65–75°F"],
+        ["Aguas Frescas",                   "7 días en tolvas — desechar los lunes","48 hrs bajo refrigeración"]
+      ]
+    },
+    {
+      "tipo": "info",
+      "texto": "Limpieza del equipo de aguas frescas: Lunes, Miércoles y Viernes. Receta: 14 litros de agua fría por 2 litros de concentrado."
+    }
+  ]
+}

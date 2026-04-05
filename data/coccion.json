@@ -1,0 +1,80 @@
+{
+  "id": "coccion",
+  "titulo": "Tiempos de Cocción y Retención",
+  "icono": "⏱",
+  "categoria": "cocina",
+  "acento": "red",
+  "subtitulo": "Retención y colocación",
+  "secciones": [
+    {
+      "tipo": "tabla",
+      "titulo": "Broiler — Tiempos de cocción",
+      "columnas": ["Producto", "Tiempo", "Temp. interna"],
+      "filas": [
+        ["Carne CKE",    "2:30–3:00 min", "160°F"],
+        ["Carne Angus",  "2:30–3:00 min", "160°F"],
+        ["Pollo Savory", "2:30–3:00 min", "140°F"],
+        ["Piña",         "2:30–3:00 min", "N/A"]
+      ]
+    },
+    {
+      "tipo": "tabla",
+      "titulo": "Retención en Prince Castle",
+      "columnas": ["Producto", "Retención", "Máx. piezas", "Cocinar cuando falten"],
+      "filas": [
+        ["Carne CKE",    "20 min", "12 pzas", "3 min"],
+        ["Carne Angus",  "20 min", "8 pzas",  "3 min"],
+        ["Pollo Savory", "20 min", "6 pzas",  "3 min"]
+      ]
+    },
+    {
+      "tipo": "tabla",
+      "titulo": "Retención en Vaporera",
+      "columnas": ["Producto", "Recipiente 1/6 x 6\"", "Recipiente 1/3 x 6\"", "Retención"],
+      "filas": [
+        ["Carne CKE",    "12 pzas", "24 pzas", "20 min"],
+        ["Carne Angus",  "12 pzas", "24 pzas", "20 min"],
+        ["Pollo Savory", "6 pzas",  "12 pzas", "20 min"]
+      ]
+    },
+    {
+      "tipo": "alerta",
+      "texto": "Desechar producto por debajo de 140°F. Monitorear vaporera cada 3 horas con agua caliente. Cronometrar cada recipiente por separado."
+    },
+    {
+      "tipo": "pasos",
+      "titulo": "Cocinado de Emergencia — Carne Angus",
+      "pasos": [
+        "Parrilla a 300°F — precalentar 30 min",
+        "NO usar prensa. NO colocar más de 4 pzas en línea",
+        "Cocinar 5 min total (2:30 por cada lado)",
+        "Temperatura interna mínima 160°F",
+        "Tiempo de retención: 10 minutos"
+      ]
+    },
+    {
+      "tipo": "pasos",
+      "titulo": "Cocinado de Emergencia — Carne CKE",
+      "pasos": [
+        "Parrilla a 300°F — precalentar 30 min",
+        "Precalentar prensas de carne durante 1 min",
+        "Máximo 2 carnes debajo de la prensa",
+        "Cocinar 3 min (1:30 por cada lado)",
+        "Temperatura interna mínima 160°F",
+        "Tiempo de retención: 20 minutos"
+      ]
+    },
+    {
+      "tipo": "tabla",
+      "titulo": "Límites Críticos",
+      "columnas": ["Medida preventiva", "Límite crítico"],
+      "filas": [
+        ["Cocción en asador",     "Mínimo 160°F (71.1°C)"],
+        ["Recalentamiento",       "Mínimo 165°F (74°C)"],
+        ["Enfriamiento",          "140→70°F en 2h · 69→41°F en 4h"],
+        ["Alimentos en vaporera", "Mantener > 140°F (60°C)"],
+        ["Alimentos en frío",     "41°F (5°C) máx 12 horas"]
+      ]
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "modulos": [
+    "coccion.json",
+    "freidoras.json",
+    "hamburguesas.json",
+    "sandwiches.json",
+    "vegetales.json",
+    "descongelacion.json",
+    "tenders.json",
+    "tocino.json",
+    "panes.json",
+    "postres.json",
+    "aguas.json",
+    "ensaladas.json",
+    "pinzas.json",
+    "recepcion.json",
+    "zonapeligro.json",
+    "lavado.json",
+    "limpieza.json",
+    "alergenos.json",
+    "enfermedades.json",
+    "asador.json",
+    "autoservicio.json",
+    "delivery.json",
+    "superstar.json",
+    "quejas.json",
+    "datos.json",
+    "mostrador.json"
+  ]
+}

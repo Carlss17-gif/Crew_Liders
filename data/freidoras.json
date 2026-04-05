@@ -1,0 +1,46 @@
+{
+  "id": "freidoras",
+  "titulo": "Freidoras — Prince Castle 225°F",
+  "icono": "🍟",
+  "categoria": "cocina",
+  "acento": "red",
+  "subtitulo": "Prince Castle 225°F",
+  "secciones": [
+    {
+      "tipo": "tabla",
+      "titulo": "Tiempos de cocción, temperatura y retención",
+      "columnas": ["Producto", "Cocción", "Temp. interna", "Retención", "Shake"],
+      "filas": [
+        ["Chicken Tenders", "3:30 min", "165°F", "30 min", "10 seg"],
+        ["Estrellas",       "2:30 min", "165°F", "30 min", "30 seg"],
+        ["Filete (nuevo)",  "4:00 min", "165°F", "30 min", "10 seg"],
+        ["Quinoa",          "2:00 min", "160°F", "10 min", "N/A"],
+        ["Aros de cebolla", "2:00 min", "N/A",   "10 min", "30 seg"],
+        ["Papas CrisCut",   "2:30 min", "N/A",   "15 min", "30 seg"],
+        ["Popers",          "2:00 min", "N/A",   "20 min", "30 seg"],
+        ["Papas Fritas",    "3:00 min", "N/A",   "7 min",  "30 seg"]
+      ]
+    },
+    {
+      "tipo": "tabla",
+      "titulo": "Porciones por tamaño",
+      "columnas": ["Tamaño", "Peso CrisCut", "Peso Papas", "Porción Aros"],
+      "filas": [
+        ["Kids",    "—",      "2.9 oz", "—"],
+        ["Chico",   "—",      "3.7 oz", "—"],
+        ["Mediano", "4.6 oz", "5.2 oz", "4.20 oz"],
+        ["Grande",  "5.7 oz", "5.7 oz", "—"]
+      ]
+    },
+    {
+      "tipo": "lista",
+      "titulo": "Notas de porción",
+      "items": [
+        "Papas Fritas: 5 saladas por cesta ½ · 2 saladas por cesta ¼",
+        "Aros mediano: mínimo 8 aros · 3 saladas por orden",
+        "Aros grande: 10–12 piezas",
+        "Papas Chilli: peso 7.65 oz"
+      ]
+    }
+  ]
+}
