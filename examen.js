@@ -4,7 +4,7 @@ const params = new URLSearchParams(window.location.search);
 const id = params.get("id");
 const nam = params.get("nom");
 
-fetch("examenes.json")
+fetch("/data/examenes.json")
   .then(res => res.json())
   .then(data => {
     examenData = data[id];
